@@ -2,9 +2,16 @@
 
 A pet rental app for people in Japan. A project made for Le Wagon.
 
-_DROP SCREENSHOT HERE_
+<img width="1439" alt="Screenshot 2023-12-05 at 12 37 55" src="https://github.com/mao-10/pawsitive/assets/122519426/83eb72a9-a310-40fc-9532-0f00c3b89193">
+
+<img width="1440" alt="Screenshot 2023-12-05 at 12 38 07" src="https://github.com/mao-10/pawsitive/assets/122519426/7deb3e7b-9506-4248-b46c-20fb93c38347">
+
+<img width="1440" alt="Screenshot 2023-12-05 at 12 38 22" src="https://github.com/mao-10/pawsitive/assets/122519426/d9752809-2527-4636-bf4a-f57a4e2df66f">
+
+<img width="1440" alt="Screenshot 2023-12-05 at 12 38 34" src="https://github.com/mao-10/pawsitive/assets/122519426/6098b164-a871-4748-ac34-a292d8435ef6">
+
 <br>
-App home: https://pawsitive.herokuapp.com
+App home: [https://pawsitive.herokuapp.com](https://pawsitive-samstone1171-2408e2914163.herokuapp.com/)
    
 
 ## Getting Started
